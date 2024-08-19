@@ -48,6 +48,7 @@ Utilize lazy loading para carregar componentes e recursos sob demanda, melhorand
 
     - OMDB API: http://www.omdbapi.com/?apikey=[sua_api_key]&s=filme
     - TMDB API: https://api.themoviedb.org/3/search/movie?api_key=[sua_api_key]&query=filme
+    
     A mudança pode envolver alterações na estrutura das respostas e nos componentes que exibem os dados.
 
 ## Melhorias no Todo App
