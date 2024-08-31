@@ -1,6 +1,6 @@
 # Projeto de clone do netflix com React.js
 
-# Como rodar o projeto
+# Como rodar o projeto localmente
 
 ## Requisitos
 
@@ -12,11 +12,11 @@
 
 ### Primeiro
 
-Em seu terminal ou powershell, digite o comando `git clone https://github.com/bernardobru/atividade-5-maisprati.git`
+Em seu terminal ou powershell, digite o comando `git clone https://github.com/bernardobru/atividade-6-maisprati.git`
 
 ### Segundo
 
-Entre na pasta do repositório através do comando `cd atividade-5-maisprati` e digite o comando `npm i` ou `npm install` para instalar as dependências
+Entre na pasta do repositório através do comando `cd atividade-6-maisprati` e digite o comando `npm i` ou `npm install` para instalar as dependências
 
 ## Terceiro
 
